@@ -1,0 +1,83 @@
+/* for html page */
+
+.adrianheader {
+  font-size: 35px;
+  color: #1B66B0;
+  font-family: sans-serif;
+  font-weight:bold;
+  line-height:100px;
+  vertical-align: top;
+  padding: 20px;
+}
+
+/* div.statusWindow {
+  text-align: left;
+} */
+
+div.canvasWrapper {
+  position : absolute
+}
+
+a.svgDownloader {
+    /* position: absolute; */
+    bottom: 0px;
+    left:  0px;
+}
+
+div.Legende {
+    position: absolute;
+    height: auto;
+    bottom: 0px;
+    right:  0px;
+}
+
+div.LegendeMinimized {
+    position: absolute;
+    bottom: 0px;
+    right:  0px;
+}
+
+#graph-info {
+    position: absolute;
+    top: 0px;
+    right:  0px;
+    background: #DDDDDD;
+    color: #0A5096;
+    padding: 5px;
+}
+#cost-info {
+    position: absolute;
+    top: 30px;
+    right:  0px;
+    background: #DDDDDD;
+    color: #0A5096;
+    padding: 5px;
+}
+#f2-graph-info {
+    position: absolute;
+    top: 0px;
+    right:  0px;
+    background: #DDDDDD;
+    color: #0A5096;
+    padding: 5px;
+}
+#f2-cost-info {
+    position: absolute;
+    top: 30px;
+    right:  0px;
+    background: #DDDDDD;
+    color: #0A5096;
+    padding: 5px;
+}
+#f2-flow-info {
+    position: absolute;
+    top: 30px;
+    right:  0px;
+    background: #DDDDDD;
+    color: #0A5096;
+    padding: 5px;
+}
+td.algoInfoTD {
+  border-radius: 50%;
+  background-clip: content-box;
+}
