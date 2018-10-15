@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="graphCanvas"
+   id="tg_canvas_graph"
+   width="435.29343"
+   height="286"
+   version="1.1"
+   sodipodi:docname="ex03.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata18407">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview18405"
+     showgrid="false"
+     inkscape:zoom="2.0811913"
+     inkscape:cx="246.12994"
+     inkscape:cy="109.06153"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18350" />
+  <defs
+     id="defs18270">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20284"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path20282"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20130"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path20128"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19742"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path19740"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19612"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path19610"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19452"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path19450"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19322"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19320"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19204"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19202"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker19098"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19096"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19010"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path19008"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5382"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead601400"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path18267"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     id="g18402"
+     transform="translate(-81.199997,-8.199997)">
+    <g
+       id="edges">
+      <g
+         class="edge"
+         id="g18278">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.78463888;marker-end:url(#marker19612)"
+           x1="253.13275"
+           y1="184.11594"
+           x2="372.48657"
+           y2="267.51938"
+           id="line18272" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="308.11594"
+           y="247.59021"
+           id="text18274">6/11,3</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="319.70001"
+           y="231.20001"
+           id="text18276" />
+      </g>
+      <g
+         class="edge"
+         id="g18286">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.90139949;marker-end:url(#marker19010)"
+           x1="253.09679"
+           y1="184.08636"
+           x2="260.27078"
+           y2="42.981209"
+           id="line18280" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="277.51248"
+           y="115.57211"
+           id="text18282">2/2,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="256.70001"
+           y="104.2"
+           id="text18284" />
+      </g>
+      <g
+         class="edge"
+         id="g18294">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.76250696;marker-end:url(#marker19322)"
+           x1="386.12946"
+           y1="278.29584"
+           x2="486.12466"
+           y2="196.84131"
+           id="line18288" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="458.6351"
+           y="249.3101"
+           id="text18290">12/21,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="443.20001"
+           y="232.20001"
+           id="text18292" />
+      </g>
+      <g
+         class="edge"
+         id="g18302">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.75707757;marker-end:url(#marker19204)"
+           x1="379.11935"
+           y1="104.10854"
+           x2="486.91089"
+           y2="175.15404"
+           id="line18296" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="431.59232"
+           y="162.60747"
+           id="text18298">6/14,1</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="439.70001"
+           y="145.2"
+           id="text18300" />
+      </g>
+      <g
+         class="edge"
+         id="g18310">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.91535544;marker-end:url(#marker19452)"
+           x1="386.28891"
+           y1="278.10074"
+           x2="379.1394"
+           y2="121.85463"
+           id="line18304" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="400.71307"
+           y="191.78427"
+           id="text18306">1/1,1</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="382.70001"
+           y="191.20001"
+           id="text18308" />
+      </g>
+      <g
+         class="edge"
+         id="g18318"
+         transform="rotate(2.1669214,337.75028,272.94054)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.96651053;marker-end:url(#marker19742)"
+           x1="90.600189"
+           y1="268.68085"
+           x2="369.91595"
+           y2="276.79321"
+           id="line18312" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="239.97249"
+           y="287.27191"
+           id="text18314">7/7,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="241.70001"
+           y="267.20001"
+           id="text18316" />
+      </g>
+      <g
+         class="edge"
+         id="g18326">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.82157719;marker-end:url(#marker20130)"
+           x1="97.174324"
+           y1="256.28741"
+           x2="237.5406"
+           y2="189.9086"
+           id="line18320" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="183.3483"
+           y="237.85464"
+           id="text18322">8/10,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="175.20001"
+           y="220.20001"
+           id="text18324" />
+      </g>
+      <g
+         class="edge"
+         id="g18334">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.77954304;marker-end:url(#marker20284)"
+           x1="253.15784"
+           y1="184.30511"
+           x2="363.19867"
+           y2="111.78413"
+           id="line18328" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="325.24435"
+           y="158.44485"
+           id="text18330">0/5,1</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="316.20001"
+           y="144.2"
+           id="text18332" />
+      </g>
+      <g
+         class="edge"
+         id="g18342">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.74100184;marker-end:url(#marker19098)"
+           x1="260.11533"
+           y1="24.101503"
+           x2="365.15671"
+           y2="92.779091"
+           id="line18336" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="308.30133"
+           y="81.155518"
+           id="text18338">5/12,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="319.70001"
+           y="64.199997"
+           id="text18340" />
+      </g>
+      <g
+         class="edge"
+         id="g18350">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.87500072;marker-end:url(#Arrow1Send)"
+           x1="97.158722"
+           y1="256.24911"
+           x2="247.87152"
+           y2="35.71875"
+           id="line18344" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="195.20926"
+           y="149.09846"
+           id="text18346">3/8,1</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="178.70001"
+           y="140.2"
+           id="text18348" />
+      </g>
+    </g>
+    <g
+       id="nodes">
+      <g
+         class="node"
+         transform="translate(97.199997,256.20001)"
+         id="g18359">
+        <circle
+           r="15"
+           style="fill:#33cc33;fill-opacity:1;stroke:#0065bd;stroke-width:2"
+           id="circle18353"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           id="text18355"
+           x="0.88429606"
+           y="3.1157033"
+           style="text-anchor:middle">s</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18357"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(386.20001,278.20001)"
+         id="g18367">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle18361"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text18363"
+           style="text-anchor:middle">1</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18365"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(260.20001,24.199997)"
+         id="g18375">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle18369"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text18371"
+           style="text-anchor:middle">2</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18373"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(500.20001,186.2)"
+         id="g18383">
+        <circle
+           r="15"
+           style="fill:#c4071b;fill-opacity:1;stroke:#0065bd;stroke-width:2"
+           id="circle18377"
+           cx="0.29340416"
+           cy="1.5578518" />
+        <text
+           class="label unselectable"
+           id="text18379"
+           x="0.38946277"
+           y="5.8419428"
+           style="text-anchor:middle">t</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18381"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(379.20001,104.2)"
+         id="g18391">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle18385"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text18387"
+           style="text-anchor:middle">4</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18389"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(253.20001,184.2)"
+         id="g18399">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle18393"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text18395"
+           style="text-anchor:middle">5</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text18397"
+           style="text-anchor:middle" />
+      </g>
+    </g>
+  </g>
+</svg>

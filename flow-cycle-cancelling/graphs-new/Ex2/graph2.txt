@@ -1,0 +1,14 @@
+% Graph saved at Fri May 26 2017 00:17:18 GMT+0200 (W. Europe Standard Time)
+n 100 250
+n 200 250
+n 350 100
+n 350 400
+n 500 250
+n 600 250
+e 3 1 5 3 0
+e 1 2 10 1 7
+e 4 3 5 3 0
+e 2 4 7 2 7
+e 4 5 15 1 7
+e 0 1 10 2 7
+f 7

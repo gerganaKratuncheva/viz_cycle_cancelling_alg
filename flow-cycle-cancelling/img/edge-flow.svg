@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.776997mm"
+   height="7.911417mm"
+   viewBox="0 0 33.776996 7.911417"
+   version="1.1"
+   id="svg5724"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="edge-flow.svg">
+  <defs
+     id="defs5718" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.2096019"
+     inkscape:cx="23.702519"
+     inkscape:cy="-43.408909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5721">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.05857,-105.05987)">
+    <line
+       class="arrow"
+       style="stroke:#cccccc;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y2="107.7057"
+       x2="141.50191"
+       y1="107.7057"
+       x1="108.05858"
+       id="line77-5" />
+    <line
+       class="arrow"
+       style="stroke:#add8e6;stroke-width:3.70416665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y2="107.63178"
+       x2="141.50191"
+       y1="107.63178"
+       x1="108.05858"
+       id="line77-7" />
+    <g
+       id="g4176-4"
+       transform="matrix(0.26722224,0,0,0.28222223,108.05231,104.57088)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 0.0234375,8.8457031 V 10.845703 H 126.42383 V 8.8457031 Z"
+         id="line77-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 114.42297,5.8456421 v 7.9999999 l 12,-3.9999999 z"
+         id="path4182-8"
+         style="fill:#000000"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       class="resource unselectable edgeLabel"
+       style="font-size:3.38666677px;line-height:0%;text-anchor:middle;stroke-width:0.28222224"
+       y="112.5248"
+       x="124.12158"
+       id="text79-6">(7/10,1)</text>
+  </g>
+</svg>

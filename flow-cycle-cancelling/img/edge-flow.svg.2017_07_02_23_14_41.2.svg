@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.776997mm"
+   height="7.911417mm"
+   viewBox="0 0 33.776996 7.911417"
+   version="1.1"
+   id="svg5724"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="edge-flow.svg">
+  <defs
+     id="defs5718">
+    <marker
+       id="arrowhead"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead-2"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path6-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead-5-4-5"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path6-4-4-19"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead-5-4"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path6-4-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead-5"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path6-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.2096019"
+     inkscape:cx="23.702519"
+     inkscape:cy="-43.408909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5721">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.05857,-105.05987)">
+    <line
+       class="arrow"
+       style="stroke:#cccccc;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y2="107.7057"
+       x2="141.50191"
+       y1="107.7057"
+       x1="108.05858"
+       id="line77-5" />
+    <line
+       class="arrow"
+       style="stroke:#add8e6;stroke-width:3.70416665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y2="107.63178"
+       x2="141.50191"
+       y1="107.63178"
+       x1="108.05858"
+       id="line77-7" />
+    <g
+       id="g4176-4"
+       transform="matrix(0.26722224,0,0,0.28222223,108.05231,104.57088)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 0.0234375,8.8457031 V 10.845703 H 126.42383 V 8.8457031 Z"
+         id="line77-9"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 114.42297,5.8456421 v 7.9999999 l 12,-3.9999999 z"
+         id="path4182-8"
+         style="fill:#000000"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       class="resource unselectable edgeLabel"
+       style="font-size:3.38666677px;line-height:0%;text-anchor:middle;stroke-width:0.28222224"
+       y="112.5248"
+       x="124.12158"
+       id="text79-6">(7/10,1)</text>
+    <text
+       id="text15"
+       style="font-size:3.38666677px;line-height:0%;dominant-baseline:text-after-edge;text-anchor:end;stroke-width:0.28222224"
+       dominant-baseline="text-after-edge"
+       y="145.94635"
+       x="93.100067"
+       class="resource unselectable edgeLabel">(2/2,1)</text>
+    <g
+       class="edge"
+       id="g17"
+       transform="matrix(0.28222223,0,0,0.28222223,44.85781,85.054173)">
+      <text
+         class="resource unselectable edgeLabel"
+         x="167.01657"
+         y="299.8002"
+         dominant-baseline="text-before-edge"
+         style="line-height:0%;dominant-baseline:text-before-edge;text-anchor:end"
+         id="text21">(4/4,1)</text>
+    </g>
+    <g
+       class="edge"
+       id="g23"
+       transform="matrix(0.28222223,0,0,0.28222223,42.907675,85.151679)">
+      <text
+         class="resource unselectable edgeLabel"
+         x="232.06821"
+         y="251.75906"
+         dominant-baseline="text-before-edge"
+         style="line-height:0%;dominant-baseline:text-before-edge;text-anchor:end"
+         id="text27">(1/3,1)</text>
+    </g>
+    <text
+       class="resource unselectable edgeLabel"
+       x="137.743"
+       y="175.18655"
+       dominant-baseline="text-after-edge"
+       style="font-size:3.38666677px;line-height:0%;dominant-baseline:text-after-edge;text-anchor:end;stroke-width:0.28222224"
+       id="text33">(5/6,1)</text>
+    <g
+       transform="matrix(0.24808038,-0.15352938,0.08890581,0.14398503,89.201153,135.56587)"
+       id="g7734">
+      <line
+         id="line77-5-8"
+         x1="-3.6610119"
+         y1="294.13812"
+         x2="114.83898"
+         y2="294.13812"
+         style="stroke:#cccccc;stroke-width:18.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+      <line
+         id="line77-7-5"
+         x1="-3.6610119"
+         y1="293.87619"
+         x2="114.83898"
+         y2="293.87619"
+         style="stroke:#add8e6;stroke-width:13.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+    </g>
+    <line
+       x1="111.06392"
+       y1="180.61464"
+       x2="146.99161"
+       y2="157.92397"
+       style="stroke:#000000;stroke-width:0.56444448px;marker-end:url(#arrowhead-5)"
+       id="line31" />
+    <g
+       transform="matrix(0.22191784,0.14512004,-0.08785848,0.12342011,79.464223,136.85157)"
+       id="g7734-3">
+      <line
+         id="line77-7-3"
+         x1="42.69273"
+         y1="132.72223"
+         x2="180.18456"
+         y2="127.87724"
+         style="stroke:#add8e6;stroke-width:13.20621586;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+      <line
+         id="line77-7-3-8"
+         x1="34.849682"
+         y1="125.21365"
+         x2="85.828125"
+         y2="-103.36463"
+         style="stroke:#add8e6;stroke-width:6.99215031;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+      <line
+         id="line77-7-3-8-0"
+         x1="105.42049"
+         y1="-124.4152"
+         x2="247.40012"
+         y2="-127.48432"
+         style="stroke:#add8e6;stroke-width:6.13428736;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+      <line
+         id="line77-5-9"
+         x1="102.83413"
+         y1="-102.81963"
+         x2="185.32002"
+         y2="103.92522"
+         style="stroke:#cccccc;stroke-width:7.84523869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+      <line
+         id="line77-7-6"
+         x1="183.96333"
+         y1="100.81633"
+         x2="102.83458"
+         y2="-102.82422"
+         style="stroke:#add8e6;stroke-width:3.66194057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="arrow" />
+    </g>
+    <line
+       x1="75.136223"
+       y1="157.92397"
+       x2="111.06392"
+       y2="180.61462"
+       style="stroke:#000000;stroke-width:0.56200653px;marker-end:url(#arrowhead-5-4)"
+       id="line31-2" />
+    <g
+       id="g8232"
+       transform="matrix(0.27397279,0,0,-0.28608737,85.580243,203.98389)"
+       style="stroke-width:1.98075771;stroke-miterlimit:4;stroke-dasharray:none">
+      <line
+         id="line31-2-1"
+         style="stroke:#000000;stroke-width:1.89012015;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#arrowhead-5-4-5)"
+         y2="241.39955"
+         x2="89.18222"
+         y1="160.99956"
+         x1="-38.120644" />
+    </g>
+    <g
+       class="edge"
+       id="g35"
+       transform="matrix(0.28222223,0,0,0.28222223,44.85781,85.054173)">
+      <line
+         x1="234.58859"
+         y1="177.8"
+         x2="361.89142"
+         y2="258.20001"
+         style="stroke:#000000;stroke-width:1.875;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#arrowhead)"
+         id="line37" />
+      <text
+         class="resource unselectable edgeLabel"
+         x="331.70657"
+         y="200.19748"
+         dominant-baseline="text-before-edge"
+         style="line-height:0%;dominant-baseline:text-before-edge;text-anchor:end"
+         id="text39">(1/1,4)</text>
+      <line
+         x1="234.58858"
+         y1="177.8"
+         x2="234.58858"
+         y2="338.60001"
+         style="stroke:#000000;stroke-width:2px;marker-end:url(#arrowhead-2)"
+         id="line25" />
+    </g>
+    <g
+       id="nodes"
+       transform="matrix(0.28222223,0,0,0.28222223,44.85781,85.054173)">
+      <g
+         id="g42"
+         transform="translate(107.28571,258.2)"
+         class="node">
+        <rect
+           id="rect44"
+           style="display:none"
+           y="-10"
+           height="30"
+           width="10"
+           x="20"
+           class="exessBar unselectable" />
+        <text
+           style="text-anchor:middle"
+           id="text50"
+           dy="-15"
+           class="resource unselectable" />
+        <g
+           class="node"
+           transform="matrix(0.93749998,0,0,0.93749998,-2.8380681,1.1860185)"
+           id="g74">
+          <circle
+             r="15"
+             style="fill:#33cc33;stroke:#0065bd;stroke-width:2"
+             id="circle68"
+             cx="0"
+             cy="0" />
+          <text
+             class="label unselectable"
+             dy="0.34999999em"
+             id="text70-7"
+             style="text-anchor:middle">s</text>
+          <text
+             class="resource unselectable"
+             dy="-15"
+             id="text72"
+             style="text-anchor:middle" />
+        </g>
+      </g>
+      <g
+         id="g52"
+         transform="translate(234.58857,177.8)"
+         class="node">
+        <rect
+           id="rect54"
+           style="display:none"
+           y="20"
+           height="0"
+           width="10"
+           x="20"
+           class="exessBar unselectable" />
+        <circle
+           cy="0"
+           cx="0"
+           id="circle56"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2px"
+           r="15" />
+        <text
+           style="line-height:0%;text-anchor:middle"
+           id="text58"
+           dy="0"
+           class="label unselectable"
+           x="0.28004113"
+           y="3.0804522">1</text>
+        <text
+           style="text-anchor:middle"
+           id="text60"
+           dy="-15"
+           class="resource unselectable" />
+      </g>
+      <g
+         id="g62"
+         transform="translate(234.58857,338.6)"
+         class="node">
+        <rect
+           id="rect64"
+           style="display:none"
+           y="20"
+           height="0"
+           width="10"
+           x="20"
+           class="exessBar unselectable" />
+        <circle
+           cy="0"
+           cx="0"
+           id="circle66"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2px"
+           r="15" />
+        <text
+           style="line-height:0%;text-anchor:middle"
+           id="text68"
+           dy="0"
+           class="label unselectable"
+           x="0.56008226"
+           y="3.6405344">2</text>
+        <text
+           style="text-anchor:middle"
+           id="text70"
+           dy="-15"
+           class="resource unselectable" />
+      </g>
+      <g
+         id="g72"
+         transform="translate(361.89143,258.2)"
+         class="node">
+        <rect
+           id="rect74"
+           style="display:none"
+           y="-10"
+           height="30"
+           width="10"
+           x="20"
+           class="exessBar unselectable" />
+        <circle
+           cy="0"
+           cx="0"
+           id="circle76"
+           style="fill:#c4071b;stroke:#0065bd;stroke-width:2px"
+           r="15" />
+        <text
+           style="line-height:0%;text-anchor:middle"
+           id="text78"
+           dy="0"
+           class="label unselectable"
+           x="0.56008226"
+           y="3.6405344">t</text>
+        <text
+           style="text-anchor:middle"
+           id="text80"
+           dy="-15"
+           class="resource unselectable" />
+      </g>
+    </g>
+  </g>
+</svg>

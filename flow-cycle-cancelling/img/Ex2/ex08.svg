@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="graphCanvas"
+   id="tg_canvas_graph"
+   width="349.6044"
+   height="182.99849"
+   version="1.1"
+   sodipodi:docname="ex08.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata16383">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1239"
+     inkscape:window-height="985"
+     id="namedview16381"
+     showgrid="false"
+     inkscape:zoom="2.1180298"
+     inkscape:cx="180.56092"
+     inkscape:cy="47.928778"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g16302" />
+  <defs
+     id="defs16254">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker18106"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path18104"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17802"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path17800"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17624"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path17622"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker17512"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17510"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker17394"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17392"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker17186"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17184"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17098"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path17096"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker17010"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17008"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5382"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="arrowhead450894"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path16251"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     id="g16378"
+     transform="translate(-18.061037,-14.143191)">
+    <g
+       id="edges"
+       transform="translate(-1.9779954,-0.6593318)">
+      <g
+         class="edge"
+         id="g16262"
+         transform="matrix(0.76569765,0,0,1.2179318,27.574967,-37.939211)"
+         style="stroke-width:2.07104659;stroke-miterlimit:4;stroke-dasharray:none">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2.03640246;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+           x1="25.492235"
+           y1="118.97356"
+           x2="116.69389"
+           y2="171.77461"
+           id="line16256" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle;stroke-width:2.07104659;stroke-miterlimit:4;stroke-dasharray:none"
+           x="201.66251"
+           y="74.600296"
+           id="text16260" />
+      </g>
+      <g
+         class="edge"
+         id="g16270"
+         transform="matrix(0.89799838,0,0,0.89279311,2.7915961,16.32799)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2.23365855;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17010)"
+           x1="51.043434"
+           y1="81.86039"
+           x2="122.55535"
+           y2="28.014566"
+           id="line16264" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="272.23584"
+           y="100.10506"
+           id="text16268" />
+      </g>
+      <g
+         class="edge"
+         id="g16278"
+         transform="matrix(0.72620533,0,0,1.0140657,38.907691,17.703678)"
+         style="stroke-width:1.9810077;stroke-miterlimit:4;stroke-dasharray:none">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.9810077;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17186)"
+           x1="146.4548"
+           y1="161.16772"
+           x2="270.87259"
+           y2="162.59528"
+           id="line16272" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle;stroke-width:1.9810077;stroke-miterlimit:4;stroke-dasharray:none"
+           x="158.47583"
+           y="189.8622"
+           id="text16276" />
+      </g>
+      <g
+         class="edge"
+         id="g16286"
+         transform="matrix(0.88942411,0,0,0.88942411,-27.489918,-31.948235)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2.24864602;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17098)"
+           x1="173.17776"
+           y1="87.888336"
+           x2="173.99722"
+           y2="219.67352"
+           id="line16280" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="229.04916"
+           y="143.75745"
+           id="text16284" />
+      </g>
+      <g
+         class="edge"
+         id="g16294"
+         transform="translate(-5.9339862,3.296659)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17512)"
+           x1="147.84436"
+           y1="30.480202"
+           x2="239.23613"
+           y2="31.171074"
+           id="line16288" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="203.5634"
+           y="24.975956"
+           id="text16290">4/14,2</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="300.14917"
+           y="236.45744"
+           id="text16292" />
+      </g>
+      <g
+         class="edge"
+         id="g16302"
+         transform="rotate(-0.91233875,934.26153,-706.40766)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17394)"
+           x1="226.0582"
+           y1="158.14427"
+           x2="129.37022"
+           y2="28.96804"
+           id="line16296" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="189.62163"
+           y="81.597343"
+           id="text16298"
+           inkscape:transform-center-x="5.6656427"
+           inkscape:transform-center-y="-5.1935059">0/9,3</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="229.04916"
+           y="215.36696"
+           id="text16300" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="45.557171"
+           y="138.57181"
+           id="text16298-5">5/16,2</text>
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="302.75311"
+           y="50.957218"
+           id="text16298-3">4/4,1</text>
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="171.77945"
+           y="183.04047"
+           id="text16298-1">9/12,1</text>
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="135.80551"
+           y="102.87135"
+           id="text16298-8">4/4,2</text>
+      </g>
+      <g
+         class="edge"
+         id="g16310"
+         transform="translate(120.32805,-14.5053)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17802)"
+           x1="142.88608"
+           y1="197.71519"
+           x2="217.33412"
+           y2="121.80473"
+           id="line16304" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="207.82219"
+           y="166.01614"
+           id="text16306">9/20,-1</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="192.70917"
+           y="328.66696"
+           id="text16308" />
+      </g>
+      <g
+         class="edge"
+         id="g16318"
+         transform="translate(-52.10962,-2.2856567)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker17624)"
+           x1="305.15131"
+           y1="50.677597"
+           x2="304.64505"
+           y2="163.44522"
+           id="line16312" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="229.57584"
+           y="282.56219"
+           id="text16316" />
+        <text
+           transform="rotate(-0.91233875)"
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="324.85254"
+           y="114.10666"
+           id="text16298-7">0/7,-2</text>
+      </g>
+      <g
+         class="edge"
+         id="g16326"
+         transform="matrix(0.87166364,0,0,0.97922196,23.941965,-96.10793)"
+         style="stroke-width:2.16478586;stroke-miterlimit:4;stroke-dasharray:none">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2.16478586;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker18106)"
+           x1="273.77731"
+           y1="138.90877"
+           x2="359.21829"
+           y2="192.39058"
+           id="line16320" />
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle;stroke-width:2.16478586;stroke-miterlimit:4;stroke-dasharray:none"
+           x="263.80917"
+           y="349.75745"
+           id="text16324" />
+      </g>
+      <text
+         transform="rotate(-0.91233875)"
+         class="resource unselectable edgeLabel"
+         style="text-anchor:middle"
+         x="64.132324"
+         y="58.340714"
+         id="text16298-2">8/13,5</text>
+    </g>
+    <g
+       id="nodes"
+       transform="translate(2.6373272,0.6593318)">
+      <g
+         class="node"
+         transform="translate(31.42371,97.32038)"
+         id="g16335">
+        <circle
+           r="15"
+           style="fill:#33cc33;fill-opacity:1;stroke:#0065bd;stroke-width:2"
+           id="circle16329"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           id="text16331"
+           x="-0.20591119"
+           y="3.1146841"
+           style="text-anchor:middle">s</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(127.15757,180.22987)"
+         id="g16343">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle16337"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text16339"
+           style="text-anchor:middle">1</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(123.25124,29.483859)"
+         id="g16351">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle16345"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text16347"
+           style="text-anchor:middle">2</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(248.10054,176.74759)"
+         id="g16359">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle16353"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text16355"
+           style="text-anchor:middle">3</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(247.22554,31.678314)"
+         id="g16367">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle16361"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text16363"
+           style="text-anchor:middle">4</text>
+      </g>
+      <g
+         class="node"
+         transform="translate(349.0281,96.525564)"
+         id="g16375">
+        <circle
+           r="15"
+           style="fill:#c4071b;fill-opacity:1;stroke:#0065bd;stroke-width:2"
+           id="circle16369"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           id="text16371"
+           x="0.18894473"
+           y="4.3457508"
+           style="text-anchor:middle;opacity:0.98000004">t</text>
+      </g>
+    </g>
+  </g>
+</svg>

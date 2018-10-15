@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="92.715233"
+   width="218.51135"
+   id="ta_canvas_graph"
+   class="graphCanvas"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="title.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="3.1338839"
+     inkscape:cx="149.54254"
+     inkscape:cy="8.9952656"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ta_canvas_graph" />
+  <metadata
+     id="metadata84">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <marker
+       orient="auto"
+       markerHeight="4"
+       markerWidth="12"
+       refY="2"
+       refX="12"
+       id="arrowhead860055">
+      <path
+         id="path6"
+         d="M 0,0 V 4 L 6,2 Z"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <line
+     x1="13.722977"
+     y1="73.383003"
+     x2="85.722977"
+     y2="17.549664"
+     style="stroke:#000000;stroke-width:2px"
+     id="line13" />
+  <text
+     class="resource unselectable edgeLabel"
+     x="50.688419"
+     y="42.552166"
+     dominant-baseline="text-after-edge"
+     style="line-height:0%;dominant-baseline:text-after-edge;text-anchor:end"
+     id="text15">2/2,1</text>
+  <line
+     x1="13.722977"
+     y1="73.383003"
+     x2="140.72298"
+     y2="74.313545"
+     style="stroke:#000000;stroke-width:2px"
+     id="line19" />
+  <text
+     class="resource unselectable edgeLabel"
+     x="91.706802"
+     y="78.434669"
+     dominant-baseline="text-before-edge"
+     style="line-height:0%;dominant-baseline:text-before-edge;text-anchor:end"
+     id="text21">4/4,1</text>
+  <line
+     x1="85.722977"
+     y1="17.549664"
+     x2="140.72298"
+     y2="74.313545"
+     style="stroke:#ff0000;stroke-width:2px;stroke-opacity:1"
+     id="line25" />
+  <text
+     class="resource unselectable edgeLabel"
+     x="111.70885"
+     y="45.002586"
+     dominant-baseline="text-before-edge"
+     style="line-height:0%;dominant-baseline:text-before-edge;text-anchor:end"
+     id="text27">1/3,1</text>
+  <line
+     x1="140.72298"
+     y1="74.313545"
+     x2="196.72298"
+     y2="17.549664"
+     style="stroke:#ff0000;stroke-width:2px;stroke-opacity:1"
+     id="line31" />
+  <text
+     class="resource unselectable edgeLabel"
+     x="167.24025"
+     y="48.379784"
+     dominant-baseline="text-after-edge"
+     style="line-height:0%;dominant-baseline:text-after-edge;text-anchor:end"
+     id="text33">5/6,1</text>
+  <line
+     x1="85.722977"
+     y1="17.549664"
+     x2="196.72298"
+     y2="17.549664"
+     style="stroke:#ff0000;stroke-width:2px;stroke-opacity:1"
+     id="line37" />
+  <text
+     class="resource unselectable edgeLabel"
+     x="151.0513"
+     y="15.460556"
+     dominant-baseline="text-after-edge"
+     style="line-height:0%;dominant-baseline:text-after-edge;text-anchor:end"
+     id="text39">1/1,5</text>
+  <g
+     id="g42"
+     transform="matrix(1.0666667,0,0,1.0666667,19.027273,74.512798)"
+     class="node">
+    <rect
+       id="rect44"
+       style="display:none"
+       y="-10"
+       height="30"
+       width="10"
+       x="20"
+       class="exessBar unselectable" />
+    <text
+       style="text-anchor:middle"
+       id="text50"
+       dy="-15"
+       class="resource unselectable" />
+    <g
+       class="node"
+       transform="matrix(0.93749998,0,0,0.93749998,-2.8380681,1.1860185)"
+       id="g74">
+      <circle
+         r="15"
+         style="fill:#33cc33;stroke:#0065bd;stroke-width:2"
+         id="circle68"
+         cx="0"
+         cy="0" />
+      <text
+         class="label unselectable"
+         dy="0.34999999em"
+         id="text70-7"
+         style="text-anchor:middle">s</text>
+      <text
+         class="resource unselectable"
+         dy="-15"
+         id="text72"
+         style="text-anchor:middle" />
+    </g>
+  </g>
+  <g
+     id="g72"
+     transform="matrix(1.0666667,0,0,1.0666667,201.44469,17.583946)"
+     class="node">
+    <rect
+       id="rect74"
+       style="display:none"
+       y="-10"
+       height="30"
+       width="10"
+       x="20"
+       class="exessBar unselectable" />
+    <circle
+       cy="0"
+       cx="0"
+       id="circle76-0"
+       style="fill:#c4071b;stroke:#0065bd;stroke-width:2px"
+       r="15" />
+    <text
+       style="line-height:0%;text-anchor:middle"
+       id="text78-6"
+       dy="0"
+       class="label unselectable"
+       x="0.56008226"
+       y="3.6405344">t</text>
+    <text
+       style="text-anchor:middle"
+       id="text80"
+       dy="-15"
+       class="resource unselectable" />
+  </g>
+  <g
+     id="g52"
+     transform="matrix(1.0666667,0,0,1.0666667,87.264162,17.066667)"
+     class="node">
+    <rect
+       id="rect54"
+       style="display:none"
+       y="20"
+       height="0"
+       width="10"
+       x="20"
+       class="exessBar unselectable" />
+    <circle
+       cy="-0.3637121"
+       cx="-0.3637121"
+       id="circle56-4"
+       style="fill:#98c6ea;stroke:#0065bd;stroke-width:1.95453596px"
+       r="14.659019" />
+    <text
+       style="text-anchor:middle"
+       id="text60"
+       dy="-15"
+       class="resource unselectable" />
+    <circle
+       cy="55.284241"
+       cx="44.567268"
+       id="circle56-4-1"
+       style="fill:#98c6ea;stroke:#0065bd;stroke-width:1.95453596px"
+       r="14.659019" />
+  </g>
+</svg>

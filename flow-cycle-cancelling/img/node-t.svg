@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg5009" width="9.0311108mm" height="9.0311108mm" viewBox="0 0 31.999999 31.999999" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(1110.2857,-679.21935)" id="layer1">
+    <g id="g84" transform="translate(-1094.2857,695.21935)" class="node">
+      <circle cy="0" cx="0" id="circle86" style="fill:#33cc33;stroke:#0065bd;stroke-width:2" r="15"/>
+      <text style="text-anchor: middle; white-space: pre; font-size: 12px;" id="text88" class="label unselectable" x="-0.146" y="2.479">s</text>
+      <text style="text-anchor: middle; white-space: pre;" id="text90" class="resource unselectable"/>
+    </g>
+  </g>
+  <g transform="matrix(1.0000000000000002, 0, 0, 1.0000000000000002, 1110.2856445312502, -679.2193603515626)" id="g-1">
+    <g id="g-2" transform="translate(-1094.2857,695.21935)" class="node">
+      <circle cy="0" cx="0" id="circle-1" style="stroke-width: 2; stroke: rgb(0, 101, 189); fill: rgb(175, 17, 17);" r="15"/>
+      <text style="text-anchor: middle; white-space: pre; font-size: 12px;" id="text-1" class="label unselectable" x="-0.146" y="2.479">t</text>
+      <text style="text-anchor: middle; white-space: pre;" id="text-2" class="resource unselectable"/>
+    </g>
+  </g>
+</svg>

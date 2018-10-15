@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="graphCanvas"
+   id="tg_canvas_graph"
+   width="265.37381"
+   height="183.91977"
+   version="1.1"
+   sodipodi:docname="maxflow-graph-algorithm-graph.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata3764">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview3762"
+     showgrid="false"
+     inkscape:zoom="10.972346"
+     inkscape:cx="21.309138"
+     inkscape:cy="70.106626"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3759"
+     inkscape:snap-page="true"
+     inkscape:snap-to-guides="false" />
+  <defs
+     id="defs3683">
+    <marker
+       id="arrowhead670404"
+       refX="12"
+       refY="2"
+       markerWidth="12"
+       markerHeight="4"
+       orient="auto">
+      <path
+         d="M 0,0 V 4 L 6,2 Z"
+         id="path3680"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-93.790307,-165.79567)"
+     id="g3759">
+    <g
+       id="edges"
+       transform="matrix(1.0485013,0,0,1.050054,-1.9261614,-8.300124)">
+      <g
+         class="edge"
+         id="g3691"
+         transform="matrix(0.8899729,0,0,0.8899729,10.043902,18.242493)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;marker-end:url(#arrowhead670404)"
+           x1="107.28571"
+           y1="264.20001"
+           x2="234.58858"
+           y2="181.8"
+           id="line3685" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="156.68741"
+           y="216.06198"
+           id="text3687">(4/4,2)</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="170.93715"
+           y="223"
+           id="text3689" />
+      </g>
+      <g
+         class="edge"
+         id="g3699"
+         transform="matrix(0.8899729,0,0,0.8899729,10.043902,18.242493)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;marker-end:url(#arrowhead670404)"
+           x1="107.28571"
+           y1="264.20001"
+           x2="234.58858"
+           y2="346.60001"
+           id="line3693" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="156.57355"
+           y="327.59085"
+           id="text3695">(2/2,2)</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="170.93715"
+           y="305.39999"
+           id="text3697" />
+      </g>
+      <g
+         class="edge"
+         id="g3707"
+         transform="matrix(0.8899729,0,0,0.8899729,10.043902,18.242493)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;marker-end:url(#arrowhead670404)"
+           x1="234.58858"
+           y1="181.8"
+           x2="234.58858"
+           y2="346.60001"
+           id="line3701" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="208.18857"
+           y="264.20001"
+           id="text3703">(1/2,1)</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="234.58858"
+           y="264.20001"
+           id="text3705" />
+      </g>
+      <g
+         class="edge"
+         id="g3715"
+         transform="matrix(0.8899729,0,0,0.8899729,10.043902,18.242493)">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:2;marker-end:url(#arrowhead670404)"
+           x1="234.58858"
+           y1="346.60001"
+           x2="361.89142"
+           y2="264.20001"
+           id="line3709" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="text-anchor:middle"
+           x="312.60361"
+           y="327.59085"
+           id="text3711">(3/5,1)</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="298.23999"
+           y="305.39999"
+           id="text3713" />
+      </g>
+      <g
+         class="edge"
+         id="g3723">
+        <line
+           class="arrow"
+           style="stroke:#000000;stroke-width:1.77994585;marker-end:url(#arrowhead670404)"
+           x1="218.82138"
+           y1="180.03957"
+           x2="332.11746"
+           y2="253.37334"
+           id="line3717" />
+        <text
+           class="resource unselectable edgeLabel"
+           style="font-size:10.6796751px;text-anchor:middle;stroke-width:0.88997293"
+           x="288.15131"
+           y="210.99065"
+           id="text3719">(3/3,3)</text>
+        <text
+           class="resource unselectable edgeLabel2"
+           style="text-anchor:middle"
+           x="298.23999"
+           y="223"
+           id="text3721" />
+        <text
+           transform="scale(0.94612473,1.0569431)"
+           id="text3825"
+           x="194.85626"
+           y="264.16592"
+           style="font-size:9.08260441px;text-anchor:middle;stroke-width:0.75688368"
+           class="resource unselectable edgeLabel" />
+      </g>
+    </g>
+    <g
+       id="nodes"
+       transform="matrix(0.93313773,0,0,0.93451959,8.6048837,10.855478)">
+      <g
+         class="node"
+         transform="translate(107.28571,264.2)"
+         id="g3732">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle3726"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text3728"
+           style="text-anchor:middle">0</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text3730"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(234.58857,181.8)"
+         id="g3740">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle3734"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text3736"
+           style="text-anchor:middle">1</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text3738"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(234.58857,346.6)"
+         id="g3748">
+        <circle
+           r="15"
+           style="fill:#98c6ea;stroke:#0065bd;stroke-width:2"
+           id="circle3742"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           dy="0.34999999em"
+           id="text3744"
+           style="text-anchor:middle">2</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text3746"
+           style="text-anchor:middle" />
+      </g>
+      <g
+         class="node"
+         transform="translate(361.89143,264.2)"
+         id="g3756">
+        <circle
+           r="15"
+           style="fill:#c4071b;fill-opacity:1;stroke:#0065bd;stroke-width:2"
+           id="circle3750"
+           cx="0"
+           cy="0" />
+        <text
+           class="label unselectable"
+           id="text3752"
+           style="text-anchor:middle"
+           y="3.5108685">t</text>
+        <text
+           class="resource unselectable"
+           dy="-15"
+           id="text3754"
+           style="text-anchor:middle" />
+      </g>
+    </g>
+    <path
+       style="fill:#33cc33;fill-opacity:1;stroke-width:0.51555556"
+       d="m 9.7821649,103.58898 c -4.978241,-2.35747 -7.4755556,-6.252024 -7.4755556,-11.658104 0,-3.667696 0.7841339,-5.797866 3.1089154,-8.445646 2.6350391,-3.001144 5.2791203,-4.154842 9.5221963,-4.154842 4.243075,0 6.887156,1.153698 9.522195,4.154842 2.324782,2.64778 3.108916,4.77795 3.108916,8.445646 0,3.685661 -0.783948,5.797655 -3.153976,8.496964 -3.698676,4.21256 -9.682584,5.50528 -14.6326911,3.16114 z"
+       id="path8118"
+       inkscape:connector-curvature="0"
+       transform="translate(93.790307,165.79567)"
+       sodipodi:nodetypes="cssssssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.8228817px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29557204"
+       x="113.90442"
+       y="242.26598"
+       id="text8176"
+       transform="scale(0.92781266,1.0778038)"><tspan
+         sodipodi:role="line"
+         id="tspan8174"
+         x="113.90442"
+         y="242.26598"
+         style="stroke-width:0.29557204">s</tspan></text>
+  </g>
+</svg>
